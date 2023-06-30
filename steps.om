@@ -1,0 +1,7 @@
+##
+tar -cvz secure | gpg --batch --symmetric --cipher-algo AES256 --passphrase "#" --output fld.tar.gz.gpg
+
+##
+gpg --batch --passphrase "#" --output fld.tar.gz -d fld.tar.gz.gpg && tar -xvzf fld.tar.gz && rm fld.tar.gz
+
+
