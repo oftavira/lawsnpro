@@ -59,12 +59,23 @@ dependencies:
   - zeromq=4.3.4=h9c3ff4c_1
   - zlib=1.2.13=h5eee18b_0
   - pip:
+      - beautifulsoup4==4.12.2
+      - bs4==0.0.1
+      - certifi==2023.7.22
       - cffi==1.15.1
       - charset-normalizer==3.1.0
       - cryptography==41.0.1
+      - idna==3.4
+      - numpy==1.24.4
+      - pandas==2.0.3
       - pdfminer-six==20221105
       - pdfplumber==0.9.0
       - pillow==9.5.0
       - pycparser==2.21
+      - pytz==2023.3
+      - requests==2.31.0
+      - soupsieve==2.4.1
+      - tzdata==2023.3
+      - urllib3==2.0.4
       - wand==0.6.11
 prefix: /home/jupyter/anaconda3/envs/lawsnpro

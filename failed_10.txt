@@ -1,0 +1,112 @@
+<tr>
+ <td align="center" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" valign="top">
+  <p align="center" style="margin:0 0cm; text-align: center; line-height:100%; ">
+   <font color="#595843" size="2">
+    <span style="font-family:Verdana">
+     03
+    </span>
+    <span style="font-family: Verdana">
+     3
+    </span>
+   </font>
+  </p>
+ </td>
+ <td align="left" style="width: 56%; border-bottom: 1px dotted #A4A88E; padding-left: 3.5pt; padding-right: 3.5pt; padding-top: 0cm; padding-bottom: 0cm" valign="top">
+  <p class="MsoNormal" style="margin-top: 0; margin-bottom: 0; line-height:100%">
+   <b>
+    <a href="ref/lcjpjf.htm">
+     <span lang="ES-MX" style="font-family:
+  Verdana">
+      <font color="#000000" size="2">
+       LEY
+      </font>
+     </span>
+     <font color="#000000" size="2">
+      <span lang="ES" style="font-family: Verdana">
+       de Carrera Judicial del 
+			Poder Judicial de la Federación
+      </span>
+     </font>
+    </a>
+   </b>
+  </p>
+  <p style="margin:0 0cm; line-height:100%; ">
+   <span style="font-family:Verdana">
+    <font color="#000000" size="2">
+     DOF 07/06/2021
+    </font>
+   </span>
+  </p>
+  <p class="MsoNormal" style="margin-top: 0; margin-bottom: 0; line-height:100%">
+   <b>
+    <span lang="ES-MX" style="font-family:
+  Verdana">
+     <font color="#000000" size="2">
+     </font>
+    </span>
+   </b>
+  </p>
+ </td>
+ <td align="center" style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" valign="top">
+  <p align="center" style="line-height: 100%; margin: 0 0cm">
+   <font size="2">
+    <span style="font-family: Verdana">
+     DOF 18/02/2022
+    </span>
+   </font>
+  </p>
+  <span alink="#008BBF" bgcolor="#FFFFFF" link="#007777" style="alink: #008BBF; " text="#000000" topmargin="2" vlink="#FF0000">
+   <p align="center" style="margin:0 0cm; text-align: center; line-height:100%; ">
+    <font color="#000000" face="Verdana" size="2">
+     Sentencia SCJN
+    </font>
+   </p>
+  </span>
+ </td>
+ <td style="border-bottom:1px dotted #A4A88E; padding-left:3.0pt; padding-right:3.0pt; padding-top:.75pt; padding-bottom:.75pt" valign="top">
+  <p align="center" style="text-align: center; line-height:100%; margin-left:0cm; margin-right:0cm; margin-top:0; margin-bottom:5px">
+   <b>
+    <span lang="ES-MX" style="font-family: Verdana">
+     <font color="#CC3300" style="font-size: 8pt">
+      <u>
+       <a href="pdf/LCJPJF.pdf" style="text-decoration: underline" target="_blank">
+        <font color="#CC3300">
+         PDF
+        </font>
+       </a>
+      </u>
+     </font>
+    </span>
+    <span alink="#008BBF" bgcolor="#FFFFFF" link="#007777" style="font-family: Verdana" text="#000000" topmargin="2" vlink="#FF0000">
+     <font color="#CC3300">
+      <u>
+       <a href="doc/LCJPJF.doc">
+        <font color="#CC3300" style="font-size: 8pt; text-decoration:underline">
+         WORD
+        </font>
+       </a>
+      </u>
+     </font>
+    </span>
+   </b>
+   <span alink="#008BBF" bgcolor="#FFFFFF" link="#007777" style="alink: #008BBF" text="#000000" topmargin="2" vlink="#FF0000">
+    <p align="center" style="text-align: center; line-height:100%; margin-left:0cm; margin-right:0cm; margin-top:0; margin-bottom:5px">
+     <font color="#CC3300" style="font-size: 8pt">
+      <b>
+       <span style="font-family: Verdana">
+        <font color="#254994">
+         <a href="pdf_mov/Ley_de_Carrera_Judicial_del_Poder_Judicial.pdf" target="_blank">
+          <font color="#595843">
+           PDF 
+			Android/iOS
+          </font>
+         </a>
+        </font>
+       </span>
+      </b>
+     </font>
+    </p>
+   </span>
+  </p>
+ </td>
+</tr>
